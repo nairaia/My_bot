@@ -89,7 +89,7 @@ function userLabel(u) {
   return name || (u.username ? '@' + u.username : String(u.userId));
 }
 function homeText(u) {
-  return `┌─ [ 👑 <b>SPARLEX</b> ] ─┐\n✨ <b>PREMIUM STORE</b>\n└───────────────┘\n\n👋 <b>WELCOME TO SPARLEX</b>\n\n⚡ Latest premium tools\n🚀 Instant delivery after approval\n🔐 Secure UPI verification\n💬 Dedicated support: @rohitxpapaji\n\n👇 Choose an option to continue`;
+  return `╭━━━〔 👑 𝗡𝗢𝗫𝗩𝗘𝗜𝗟 〕━━━╮\n┃ ✨ 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗦𝗧𝗢𝗥𝗘\n╰━━━━━━━━━━━━━━━━╯\n\n👋 WELCOME TO NOXVEIL\n\n⚡ Latest premium tools\n🚀 Instant delivery after approval\n🔐 Secure UPI verification\n💬 Dedicated support: @NoxasX\n\n👇 Choose an option to continue`;
 }
 async function clearScreen(chatId) {
   const mid = screenIds.get(String(chatId));
@@ -158,10 +158,10 @@ async function showProfile(chatId, u) {
   return screenMessage(chatId, text, { parse_mode: 'HTML', reply_markup: inline([[btn('💚 Add Balance', 'addbalance'), btn('🧾 Deposit History', 'deposithistory')], [btn('⬅️ Back', 'home')]]) });
 }
 async function showTutorial(chatId) {
-  const text = `┌─ [ 👑 <b>SPARLEX</b> ] ─┐\n✨ <b>PREMIUM STORE</b>\n└───────────────┘\n\nℹ️ <b>HELP / TUTORIAL</b>\n\n1. Open the store and choose a product.\n2. Pay the exact amount shown on the QR.\n3. Send the payment screenshot with its UTR in the caption.\n4. Your purchase is delivered after approval.\n\nPurchased products remain in <b>My Purchases</b>.`;
+  const text = `╭━━━〔 👑 𝗡𝗢𝗫𝗩𝗘𝗜𝗟 〕━━━╮\n┃ ✨ 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗦𝗧𝗢𝗥𝗘\n╰━━━━━━━━━━━━━━━━╯\n\nℹ️ <b>HELP / TUTORIAL</b>\n\n1. Open the store and choose a product.\n2. Pay the exact amount shown on the QR.\n3. Send the payment screenshot with its UTR in the caption.\n4. Your purchase is delivered after approval.\n\nPurchased products remain in <b>My Purchases</b>.`;
   return screenMessage(chatId, text, { parse_mode: 'HTML', reply_markup: inline([
-    [{ text: '▶️ OPEN SETUP TUTORIAL', url: setup.supportLink || 'https://t.me/rohitxpapaji' }],
-    [{ text: '💬 SUPPORT @rohitxpapaji', url: 'https://t.me/rohitxpapaji' }],
+    [{ text: '▶️ OPEN SETUP TUTORIAL', url: setup.supportLink || 'https://t.me/NoxasX' }],
+    [{ text: '💬 SUPPORT @NoxasX', url: 'https://t.me/NoxasX' }],
     [btn('‹ BACK TO MENU', 'home')]
   ]) });
 }
@@ -641,4 +641,4 @@ bot.on('callback_query', async q => {
 
 bot.on('polling_error', e => console.error('Telegram polling error:', e.message));
 bot.on('error', e => console.error('Telegram bot error:', e.message));
-console.log('Sparlex Premium Store bot started. Open Telegram and send /setup (first-time owner) or /start.');
+console.log('Noxveil Premium Store bot started. Open Telegram and send /setup (first-time owner) or /start.');
