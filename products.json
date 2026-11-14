@@ -1,0 +1,72 @@
+{
+  "PROD-MVKL1QOL-5162": {
+    "id": "PROD-MVKL1QOL-5162",
+    "name": "Bind GMail & Unbind",
+    "price": 400,
+    "fileId": "BQACAgUAAxkBAAM6atr9GwqJlcdgld6iYD8ZMVFInCoAAsIhAAIBYtlWyqQhJNx3CQ49BA",
+    "fileName": "bind (1).py",
+    "active": true,
+    "createdAt": "2026-10-23T06:22:19.221Z",
+    "description": "Manage your recovery email and account binds easily \u2014 all in one place.\n\n\u2705 Add Recovery Email\n\u2705 Check Recovery Email\n\u2705 Check Linked Platform\n\u2705 Manage Bind Email\n\u2705 Access Token Management\n\u2705 Simple & Easy-to-Use Interface\n\u2705 Step-by-Step Instructions Included\n\nReady to get started? Buy now and access the file instantly."
+  },
+  "PROD-DOUBLE-1200": {
+    "id": "PROD-DOUBLE-1200",
+    "name": "Double Re-Subscribe",
+    "price": 1200,
+    "fileId": "",
+    "fileName": "",
+    "active": true,
+    "createdAt": "2026-11-10T14:08:00.000Z",
+    "description": "Only Gmail required \u2014 no account login needed. Simple and easy to use with full support available. Get the file and start instantly."
+  },
+  "PROD-BANLOGIN-400": {
+    "id": "PROD-BANLOGIN-400",
+    "name": "Ban Acc Login",
+    "price": 400,
+    "fileId": "",
+    "fileName": "",
+    "active": true,
+    "createdAt": "2026-11-10T14:08:00.000Z",
+    "description": "BAN ACCOUNT LOGIN\n\nA professional and easy-to-use solution for checking banned account login status. Designed with a simple workflow and clear instructions for a smooth experience.\n\nFull support available. Use only with accounts you are authorized to access."
+  },
+  "PROD-30DAYS-200": {
+    "id": "PROD-30DAYS-200",
+    "name": "30 DAYS BAN FILE",
+    "price": 200,
+    "fileId": "",
+    "fileName": "",
+    "active": true,
+    "createdAt": "2026-11-10T14:08:00.000Z",
+    "description": "30 DAYS ACCOUNT BAN\n\nA simple and reliable solution for authorized account-management workflows using a valid Access Token. Easy process with clear instructions and full support available.\n\nUse only with accounts you are authorized to manage."
+  },
+  "PROD-UNBIND-500": {
+    "id": "PROD-UNBIND-500",
+    "name": "UNBIND Glich FILE",
+    "price": 500,
+    "fileId": "",
+    "fileName": "",
+    "active": true,
+    "createdAt": "2026-11-10T14:08:00.000Z",
+    "description": "FREE FIRE BIND EMAIL UNBIND GLITCH FILE\n\nWith this APK file, you can enter a Free Fire access token and start the process to remove the bound email.\n\nProcess: Enter Access Token \u2192 Start Process \u2192 Unbind Bound Email\n\nThe file is designed to remove the bound email from a Free Fire account."
+  },
+  "PROD-ACCESS-200": {
+    "id": "PROD-ACCESS-200",
+    "name": "Access token Security Code",
+    "price": 200,
+    "fileId": "",
+    "fileName": "",
+    "active": true,
+    "createdAt": "2026-11-10T14:08:00.000Z",
+    "description": "A simple file designed for the Free Fire Bind Gmail process using a valid Access Token.\n\n\u2022 Easy-to-use workflow\n\u2022 Clear instructions included\n\u2022 Fast and simple process\n\u2022 Setup support available\n\nImportant: Use only with accounts and credentials you are authorized to access. Results may vary depending on the account and token."
+  },
+  "PROD-BLACKLIST-400": {
+    "id": "PROD-BLACKLIST-400",
+    "name": "Black-list Gmail",
+    "price": 400,
+    "fileId": "",
+    "fileName": "",
+    "active": true,
+    "createdAt": "2026-11-10T14:08:00.000Z",
+    "description": "E-Mail Blacklist\n\nMatlab bande ke authorized email se Gmail/SSO/FF related subscriptions ko manage/unsubscribe kar sakte ho. Login/OTP bypass ya unauthorized access ke liye nahi hai. Platform access mil gaya to maze"
+  }
+}
